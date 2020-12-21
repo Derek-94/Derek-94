@@ -1,4 +1,4 @@
-![uyuni](./img/Uyuni.jpg){: width="200" height="200"}
+<img src="./img/Uyuni.jpg" height="300px" width="300px">
 
 ### Hi there 👋
-<div align = "center">[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Derek-94&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Derek-94&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
