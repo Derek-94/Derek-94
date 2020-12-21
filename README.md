@@ -1,5 +1,9 @@
+![uyuni](./img/Uyuni.jpg)
+
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Derek-94&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <div align=center>
+    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Derek-94&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <!--
 **Derek-94/Derek-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
