@@ -1,4 +1,5 @@
-<p align="left"><img src="./img/Uyuni.jpg" height="50%" width="50%"></p>
+<p align="left"><img src="./img/Uyuni.jpg" height="30%" width="30%"></p>
+
 ---
 
 ### Hi there!👋 This is Derek 🙇
