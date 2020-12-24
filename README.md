@@ -9,7 +9,7 @@ I am used to...
 
 and i am interested in...
 
-![typescript Badge](https://img.shields.io/badge/-Typescript-091691?style=flat&logo=typescript&logoColor=fca738) 
+![typescript Badge](https://img.shields.io/badge/-Typescript-091691?style=flat&logo=typescript&logoColor=717df0) ![react Badge](https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=52c5ff)
 
 Visit my blog 👇
 
