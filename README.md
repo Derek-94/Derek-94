@@ -1,17 +1,15 @@
-<p align="left"><img src="./img/Uyuni.jpg" height="30%" width="30%"></p>
-
----
+<p align="left"><img src="./img/Uyuni.jpg" alt="dev_object" align="right" width="400" /></p>
 
 ### Hi there!👋 This is Derek 🙇
 #### Front-end engineer 👨‍💻 
 
 #### I am used to... 
 
-![javascript Badge](https://img.shields.io/badge/-Javascript-ffff4a?style=flat&logo=javascript&logoColor=fca738) ![C++ Badge](https://img.shields.io/badge/-C%2B%2B-4781f5?style=flat&logo=c%2B%2B)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![C++](https://img.icons8.com/color/30/c-plus-plus-logo.png)![Linux](https://img.icons8.com/color/30/linux.png)
 
-#### and i am interested in...
-
-![typescript Badge](https://img.shields.io/badge/-Typescript-091691?style=flat&logo=typescript&logoColor=717df0) ![react Badge](https://img.shields.io/badge/-React-white?style=flat&logo=react&logoColor=52c5ff)
+#### and i am learning...
+![typescript](https://img.icons8.com/color/30/typescript.png)![ReactJS](https://img.icons8.com/color/30/react-native.png)![python](https://img.icons8.com/color/30/python.png)
 
 #### Visit my blog 👇
 
