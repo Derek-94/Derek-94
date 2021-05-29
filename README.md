@@ -1,4 +1,8 @@
-<p align="left"><img src="./img/Uyuni.jpg" alt="dev_object" align="right" width="400" /></p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome😀&fontSize=40)
+
+<p align="left 20">
+  
+<img src="./img/Uyuni.jpg" alt="dev_object" align="right" width="400" /></p>
 
 ### Hi there!👋 This is Derek 🙇
 #### Front-end engineer 👨‍💻 
