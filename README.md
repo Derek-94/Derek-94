@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome😀&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Welcome%20😀&fontColor=ffffff&fontSize=40)
 
 <p align="left 20">
   
