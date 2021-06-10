@@ -5,7 +5,7 @@
 <img src="./img/Uyuni.jpg" alt="dev_object" align="right" width="400" /></p>
 
 ### Hi there!👋 This is Derek 🙇
-#### Front-end engineer 👨‍💻 
+#### I'm Front-end engineer 👨‍💻 
 
 #### I am used to... 
 
