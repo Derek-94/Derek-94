@@ -2,7 +2,7 @@
 
 <p align="left 20">
   
-<img src="./img/Uyuni.jpg" alt="dev_object" align="right" width="400" /></p>
+<img src="./img/_.jpg" alt="dev_object" align="right" width="300" /></p>
 
 ### Hi there!👋 This is Derek 🙇
 #### I'm Front-end engineer 👨‍💻 
