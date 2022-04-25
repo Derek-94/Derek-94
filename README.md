@@ -5,7 +5,8 @@
 <img src="./img/_.jpg" alt="dev_object" align="right" width="250" /></p>
 
 ### Hi there!👋 This is Derek 🙇
-#### I'm Front-end engineer 👨‍💻 
+#### I'm Front-end engineer 👨‍💻
+#### Currently working at Smilegate.
 
 #### I am used to... 
 
